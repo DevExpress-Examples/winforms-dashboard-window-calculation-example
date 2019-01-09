@@ -12,4 +12,4 @@ The application contains a [DashboardViewer](https://docs.devexpress.com/Dashboa
 
 You can click the page to stop the timer and click again to restart.
 
-![](~/images/WindowCalculations.gif)
+![](https://github.com/DevExpress-Examples/winforms-dashboard-window-calculation-example/blob/18.2.3%2B/images/WindowCalculations.gif)
