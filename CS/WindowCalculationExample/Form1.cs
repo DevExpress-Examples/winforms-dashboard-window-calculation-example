@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace WindowCalculationExample
 {
-    public partial class Form1 : Form
+    public partial class Form1 : DevExpress.XtraEditors.XtraForm
     {
         private string timedTabContainerName;
         private Timer tabTimer = new Timer();
