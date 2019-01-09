@@ -6,7 +6,7 @@ Imports System.Windows.Forms
 
 Namespace WindowCalculationExample
     Partial Public Class Form1
-        Inherits Form
+        Inherits DevExpress.XtraEditors.XtraForm
 
         Private timedTabContainerName As String
         Private tabTimer As New Timer()

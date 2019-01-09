@@ -30,19 +30,19 @@
             ' 
             ' dashboardViewer1
             ' 
-            Me.dashboardViewer1.Appearance.BackColor = System.Drawing.SystemColors.Control
+            Me.dashboardViewer1.Appearance.BackColor = System.Drawing.Color.FromArgb((CInt((CByte(210)))), (CInt((CByte(210)))), (CInt((CByte(210)))))
             Me.dashboardViewer1.Appearance.Options.UseBackColor = True
             Me.dashboardViewer1.Dock = System.Windows.Forms.DockStyle.Fill
             Me.dashboardViewer1.Location = New System.Drawing.Point(0, 0)
             Me.dashboardViewer1.Name = "dashboardViewer1"
-            Me.dashboardViewer1.Size = New System.Drawing.Size(800, 450)
+            Me.dashboardViewer1.Size = New System.Drawing.Size(808, 450)
             Me.dashboardViewer1.TabIndex = 0
             ' 
             ' Form1
             ' 
             Me.AutoScaleDimensions = New System.Drawing.SizeF(6F, 13F)
             Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-            Me.ClientSize = New System.Drawing.Size(800, 450)
+            Me.ClientSize = New System.Drawing.Size(808, 450)
             Me.Controls.Add(Me.dashboardViewer1)
             Me.Name = "Form1"
             Me.Text = "Form1"
