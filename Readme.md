@@ -2,7 +2,7 @@
 
 This example illustrates how to use API methods and properties to apply [window calculations](https://docs.devexpress.com/Dashboard/116917) to the values of the specified measure.
 
-The application contains a [DashboardViewer](https://docs.devexpress.com/Dashboard/117122) control that performs the following tasks:
+The application contains a [DashboardViewer](https://docs.devexpress.com/Dashboard/117122) control and performs the following tasks:
 
 - creates an empty [tabbed dashboard](https://docs.devexpress.com/Dashboard/116693)
 - loads a sample dashboard to the first tab page
@@ -11,5 +11,7 @@ The application contains a [DashboardViewer](https://docs.devexpress.com/Dashboa
 - starts the timer to switch pages.
 
 You can click the page to stop the timer and click again to restart.
+
+The example screenshot is shown below:
 
 ![](https://github.com/DevExpress-Examples/winforms-dashboard-window-calculation-example/blob/18.2.3%2B/images/WindowCalculations.gif)
