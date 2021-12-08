@@ -26,7 +26,7 @@ You can click the page to stop the timer and click again to restart.
 
 The example screenshot is shown below:
 
-![](https://github.com/DevExpress-Examples/winforms-dashboard-window-calculation-example/blob/18.2.3%2B/images/WindowCalculations.gif)
+![](./images/WindowCalculations.gif)
 
 ## Documentation
 
