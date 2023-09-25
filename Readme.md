@@ -3,12 +3,6 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830481)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [Form1.cs](./CS/WindowCalculationExample/Form1.cs)
-* [TabPageLoadHelper.cs](./CS/WindowCalculationExample/TabPageLoadHelper.cs)
-<!-- default file list end -->
 
 # Dashboard for WinForms - How to add window calculations for numeric measures in code
 
@@ -27,6 +21,11 @@ You can click the page to stop the timer and click again to restart.
 The example screenshot is shown below:
 
 ![](./images/WindowCalculations.gif)
+
+## Files to Review
+
+* [Form1.cs](./CS/WindowCalculationExample/Form1.cs)
+* [TabPageLoadHelper.cs](./CS/WindowCalculationExample/TabPageLoadHelper.cs)
 
 ## Documentation
 
